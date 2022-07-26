@@ -1,0 +1,680 @@
+body{
+    background-color: rgb(36, 5, 36);
+    position: relative;
+}
+
+.sir{
+    font-size: 50px;
+    color: blueviolet;
+    display: flex;
+    justify-content: center;
+}
+
+.sir h1{
+    animation: text 5s infinite;
+}
+
+  
+  @keyframes text {
+    0%, 100%{
+      transform: translateY(5px);
+    } 50%{
+      transform: translateY(-5px);
+    }
+  }
+  
+
+.card1 {
+    position: relative;
+    padding: 10px;
+    width: 360px;
+    height: 160px;
+    background-color: rgb(21, 21, 21);
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+    border-radius: 10px;}
+
+    .card2 {
+        position: relative;
+        padding: 10px;
+        width: 360px;
+        height: 160px;
+        background-color: rgb(21, 21, 21);
+        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+        border-radius: 10px;}
+
+        .card3 {
+            position: relative;
+            padding: 10px;
+            width: 360px;
+            height: 160px;
+            background-color: rgb(21, 21, 21);
+            box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+            border-radius: 10px;}
+
+            .card4 {
+                position: relative;
+                padding: 10px;
+                width: 360px;
+                height: 160px;
+                background-color: rgb(21, 21, 21);
+                box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                border-radius: 10px;}
+
+                .card5 {
+                    position: relative;
+                    padding: 10px;
+                    width: 360px;
+                    height: 160px;
+                    background-color: rgb(21, 21, 21);
+                    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                    border-radius: 10px;}
+
+                    .card6 {
+                        position: relative;
+                        padding: 10px;
+                        width: 360px;
+                        height: 160px;
+                        background-color: rgb(21, 21, 21);
+                        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                        border-radius: 10px;}
+
+                        .card7 {
+                            position: relative;
+                            padding: 10px;
+                            width: 360px;
+                            height: 160px;
+                            background-color: rgb(21, 21, 21);
+                            box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                            border-radius: 10px;}
+
+                            .card8 {
+                                position: relative;
+                                padding: 10px;
+                                width: 360px;
+                                height: 160px;
+                                background-color: rgb(21, 21, 21);
+                                box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                                border-radius: 10px;}
+
+                                .card9 {
+                                    position: relative;
+                                    padding: 10px;
+                                    width: 360px;
+                                    height: 160px;
+                                    background-color: rgb(21, 21, 21);
+                                    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                                    border-radius: 10px;}
+
+                                    .card10 {
+                                        position: relative;
+                                        padding: 10px;
+                                        width: 360px;
+                                        height: 160px;
+                                        background-color: rgb(21, 21, 21);
+                                        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                                        border-radius: 10px;}
+
+                                        
+                                    .card11 {
+                                        position: relative;
+                                        padding: 10px;
+                                        width: 360px;
+                                        height: 160px;
+                                        background-color: rgb(21, 21, 21);
+                                        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                                        border-radius: 10px;}
+
+                                        
+                                    .card12 {
+                                        position: relative;
+                                        padding: 10px;
+                                        width: 360px;
+                                        height: 160px;
+                                        background-color: rgb(21, 21, 21);
+                                        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                                        border-radius: 10px;}
+
+                                        
+                                    .card13 {
+                                        position: relative;
+                                        padding: 10px;
+                                        width: 360px;
+                                        height: 160px;
+                                        background-color: rgb(21, 21, 21);
+                                        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                                        border-radius: 10px;}
+
+                                        
+                                    .card14 {
+                                        position: relative;
+                                        padding: 10px;
+                                        width: 360px;
+                                        height: 160px;
+                                        background-color: rgb(21, 21, 21);
+                                        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                                        border-radius: 10px;}
+
+                                        
+                                    .card15 {
+                                        position: relative;
+                                        padding: 10px;
+                                        width: 360px;
+                                        height: 160px;
+                                        background-color: rgb(21, 21, 21);
+                                        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                                        border-radius: 10px;}
+
+                                        
+                                    .card16 {
+                                        position: relative;
+                                        padding: 10px;
+                                        width: 360px;
+                                        height: 160px;
+                                        background-color: rgb(21, 21, 21);
+                                        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                                        border-radius: 10px;}
+
+                                        
+                                    .card17 {
+                                        position: relative;
+                                        padding: 10px;
+                                        width: 360px;
+                                        height: 160px;
+                                        background-color: rgb(21, 21, 21);
+                                        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                                        border-radius: 10px;}
+
+                                        
+                                    .card18 {
+                                        position: relative;
+                                        padding: 10px;
+                                        width: 360px;
+                                        height: 160px;
+                                        background-color: rgb(21, 21, 21);
+                                        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                                        border-radius: 10px;}
+
+                                        
+                                    .card19 {
+                                        position: relative;
+                                        padding: 10px;
+                                        width: 360px;
+                                        height: 160px;
+                                        background-color: rgb(21, 21, 21);
+                                        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                                        border-radius: 10px;}
+
+                                        
+                                    .card20 {
+                                        position: relative;
+                                        padding: 10px;
+                                        width: 360px;
+                                        height: 160px;
+                                        background-color: rgb(21, 21, 21);
+                                        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                                        border-radius: 10px;}
+
+                                        
+                                    .card21 {
+                                        position: relative;
+                                        padding: 10px;
+                                        width: 360px;
+                                        height: 160px;
+                                        background-color: rgb(21, 21, 21);
+                                        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                                        border-radius: 10px;}
+
+                                        
+                                    .card22 {
+                                        position: relative;
+                                        padding: 10px;
+                                        width: 360px;
+                                        height: 160px;
+                                        background-color: rgb(21, 21, 21);
+                                        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.441);
+                                        border-radius: 10px;}
+
+
+                                        .card1 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+                                        .card2 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+                                        .card3 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+                                        .card4 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+                                        .card5 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+                                        .card6 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+                                        .card7 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+                                        .card8 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+                                        .card9 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+                                        .card10 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+                                        
+                                        .card11 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+                                        
+                                        .card12 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+
+                                        
+                                        .card13 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+
+                                        
+                                        .card14 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+
+                                        
+                                        .card15 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+
+                                        
+                                        .card16 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+
+                                        
+                                        .card17 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+
+                                        
+                                        .card18 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+
+                                        
+                                        .card19 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+
+                                        
+                                        .card20 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+
+                                        
+                                        .card21 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+
+                                        
+                                        .card22 .dis img {
+                                        
+                                            height: 160px;
+                                        width: 160px;
+                                        border-radius: 20%;
+                                        }
+
+
+                                        .card1 .dis{
+                                            color: rgb(228, 225, 225);
+                                            font-size: 23px;
+                                            display: flex;
+                                            align-items: center;
+                                            justify-content: space-between;
+                                            align-content: stretch;
+                                            flex-wrap: nowrap;
+                                            flex-direction: row-reverse;
+                                            }
+
+                                            .card2 .dis{
+                                                color: rgb(228, 225, 225);
+                                                font-size: 23px;
+                                                display: flex;
+                                                align-items: center;
+                                                justify-content: space-between;
+                                                align-content: stretch;
+                                                flex-wrap: nowrap;
+                                                flex-direction: row-reverse;
+                                                }
+
+                                                .card3 .dis{
+                                                    color: rgb(228, 225, 225);
+                                                    font-size: 23px;
+                                                    display: flex;
+                                                    align-items: center;
+                                                    justify-content: space-between;
+                                                    align-content: stretch;
+                                                    flex-wrap: nowrap;
+                                                    flex-direction: row-reverse;
+                                                    }
+
+                                                    .card4 .dis{
+                                                        color: rgb(228, 225, 225);
+                                                        font-size: 23px;
+                                                        display: flex;
+                                                        align-items: center;
+                                                        justify-content: space-between;
+                                                        align-content: stretch;
+                                                        flex-wrap: nowrap;
+                                                        flex-direction: row-reverse;
+                                                        }
+
+                                                        .card5 .dis{
+                                                            color: rgb(228, 225, 225);
+                                                            font-size: 23px;
+                                                            display: flex;
+                                                            align-items: center;
+                                                            justify-content: space-between;
+                                                            align-content: stretch;
+                                                            flex-wrap: nowrap;
+                                                            flex-direction: row-reverse;
+                                                            }
+
+                                                            .card6 .dis{
+                                                                color: rgb(228, 225, 225);
+                                                                font-size: 23px;
+                                                                display: flex;
+                                                                align-items: center;
+                                                                justify-content: space-between;
+                                                                align-content: stretch;
+                                                                flex-wrap: nowrap;
+                                                                flex-direction: row-reverse;
+                                                                }
+
+                                                                .card7 .dis{
+                                                                    color: rgb(228, 225, 225);
+                                                                    font-size: 23px;
+                                                                    display: flex;
+                                                                    align-items: center;
+                                                                    justify-content: space-between;
+                                                                    align-content: stretch;
+                                                                    flex-wrap: nowrap;
+                                                                    flex-direction: row-reverse;
+                                                                    }
+
+                                                                    .card8 .dis{
+                                                                        color: rgb(228, 225, 225);
+                                                                        font-size: 23px;
+                                                                        display: flex;
+                                                                        align-items: center;
+                                                                        justify-content: space-between;
+                                                                        align-content: stretch;
+                                                                        flex-wrap: nowrap;
+                                                                        flex-direction: row-reverse;
+                                                                        }
+
+                                                                        .card9 .dis{
+                                                                            color: rgb(228, 225, 225);
+                                                                            font-size: 23px;
+                                                                            display: flex;
+                                                                            align-items: center;
+                                                                            justify-content: space-between;
+                                                                            align-content: stretch;
+                                                                            flex-wrap: nowrap;
+                                                                            flex-direction: row-reverse;
+                                                                            }
+
+                                                                            .card10 .dis{
+                                                                                color: rgb(228, 225, 225);
+                                                                                font-size: 23px;
+                                                                                display: flex;
+                                                                                align-items: center;
+                                                                                justify-content: space-between;
+                                                                                align-content: stretch;
+                                                                                flex-wrap: nowrap;
+                                                                                flex-direction: row-reverse;
+                                                                                }
+
+                                                                                .card11 .dis{
+                                                                                    color: rgb(228, 225, 225);
+                                                                                    font-size: 23px;
+                                                                                    display: flex;
+                                                                                    align-items: center;
+                                                                                    justify-content: space-between;
+                                                                                    align-content: stretch;
+                                                                                    flex-wrap: nowrap;
+                                                                                    flex-direction: row-reverse;
+                                                                                    }
+
+                                                                                    .card12 .dis{
+                                                                                        color: rgb(228, 225, 225);
+                                                                                        font-size: 23px;
+                                                                                        display: flex;
+                                                                                        align-items: center;
+                                                                                        justify-content: space-between;
+                                                                                        align-content: stretch;
+                                                                                        flex-wrap: nowrap;
+                                                                                        flex-direction: row-reverse;
+                                                                                        }
+
+                                                                                        .card13 .dis{
+                                                                                            color: rgb(228, 225, 225);
+                                                                                            font-size: 23px;
+                                                                                            display: flex;
+                                                                                            align-items: center;
+                                                                                            justify-content: space-between;
+                                                                                            align-content: stretch;
+                                                                                            flex-wrap: nowrap;
+                                                                                            flex-direction: row-reverse;
+                                                                                            }
+
+                                                                                            .card14 .dis{
+                                                                                                color: rgb(228, 225, 225);
+                                                                                                font-size: 23px;
+                                                                                                display: flex;
+                                                                                                align-items: center;
+                                                                                                justify-content: space-between;
+                                                                                                align-content: stretch;
+                                                                                                flex-wrap: nowrap;
+                                                                                                flex-direction: row-reverse;
+                                                                                                }
+
+                                                                                                .card15 .dis{
+                                                                                                    color: rgb(228, 225, 225);
+                                                                                                    font-size: 23px;
+                                                                                                    display: flex;
+                                                                                                    align-items: center;
+                                                                                                    justify-content: space-between;
+                                                                                                    align-content: stretch;
+                                                                                                    flex-wrap: nowrap;
+                                                                                                    flex-direction: row-reverse;
+                                                                                                    }
+
+                                                                                                    .card16 .dis{
+                                                                                                        color: rgb(228, 225, 225);
+                                                                                                        font-size: 23px;
+                                                                                                        display: flex;
+                                                                                                        align-items: center;
+                                                                                                        justify-content: space-between;
+                                                                                                        align-content: stretch;
+                                                                                                        flex-wrap: nowrap;
+                                                                                                        flex-direction: row-reverse;
+                                                                                                        }
+
+                                                                                                        .card17 .dis{
+                                                                                                            color: rgb(228, 225, 225);
+                                                                                                            font-size: 23px;
+                                                                                                            display: flex;
+                                                                                                            align-items: center;
+                                                                                                            justify-content: space-between;
+                                                                                                            align-content: stretch;
+                                                                                                            flex-wrap: nowrap;
+                                                                                                            flex-direction: row-reverse;
+                                                                                                            }
+
+                                                                                                            .card18 .dis{
+                                                                                                                color: rgb(228, 225, 225);
+                                                                                                                font-size: 23px;
+                                                                                                                display: flex;
+                                                                                                                align-items: center;
+                                                                                                                justify-content: space-between;
+                                                                                                                align-content: stretch;
+                                                                                                                flex-wrap: nowrap;
+                                                                                                                flex-direction: row-reverse;
+                                                                                                                }
+
+                                                                                                                .card19 .dis{
+                                                                                                                    color: rgb(228, 225, 225);
+                                                                                                                    font-size: 23px;
+                                                                                                                    display: flex;
+                                                                                                                    align-items: center;
+                                                                                                                    justify-content: space-between;
+                                                                                                                    align-content: stretch;
+                                                                                                                    flex-wrap: nowrap;
+                                                                                                                    flex-direction: row-reverse;
+                                                                                                                    }
+
+                                                                                                                    .card20 .dis{
+                                                                                                                        color: rgb(228, 225, 225);
+                                                                                                                        font-size: 23px;
+                                                                                                                        display: flex;
+                                                                                                                        align-items: center;
+                                                                                                                        justify-content: space-between;
+                                                                                                                        align-content: stretch;
+                                                                                                                        flex-wrap: nowrap;
+                                                                                                                        flex-direction: row-reverse;
+                                                                                                                        }
+
+                                                                                                                        .card21 .dis{
+                                                                                                                            color: rgb(228, 225, 225);
+                                                                                                                            font-size: 23px;
+                                                                                                                            display: flex;
+                                                                                                                            align-items: center;
+                                                                                                                            justify-content: space-between;
+                                                                                                                            align-content: stretch;
+                                                                                                                            flex-wrap: nowrap;
+                                                                                                                            flex-direction: row-reverse;
+                                                                                                                            }
+
+                                                                                                                            .card22 .dis{
+                                                                                                                                color: rgb(228, 225, 225);
+                                                                                                                                font-size: 23px;
+                                                                                                                                display: flex;
+                                                                                                                                align-items: center;
+                                                                                                                                justify-content: space-between;
+                                                                                                                                align-content: stretch;
+                                                                                                                                flex-wrap: nowrap;
+                                                                                                                                flex-direction: row-reverse;
+                                                                                                                                }
+
+                                                                                .warning{
+                                                                                    font-size: 40px;
+                                                                                    color: rgb(255, 0, 0);
+                                                                                    display: flex;
+                                                                                    justify-content: center;
+                                                                                    background-color: rgb(124, 124, 124);
+                                                                                    border: 10px solid red;
+                                                                                }
+                                                                                
+                                                                                .discord{
+                                                                                    font-size: 32px;
+                                                                                    display: flex;
+                                                                                    justify-content: center;
+                                                                                    background-color: rgb(124, 124, 124);
+                                                                                    border: 10px solid red;
+                                                                                }
+                                                                                
+                                                                                .copyright{
+                                                                                    font-size: 32px;
+                                                                                    display: flex;
+                                                                                    justify-content: center;
+                                                                                    background-color: rgb(124, 124, 124);
+                                                                                    border: 10px solid red;
+                                                                                }
